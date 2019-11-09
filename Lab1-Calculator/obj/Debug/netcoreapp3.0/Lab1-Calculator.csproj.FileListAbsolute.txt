@@ -1,0 +1,11 @@
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator.deps.json
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator.runtimeconfig.json
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator.runtimeconfig.dev.json
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator.dll
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/bin/Debug/netcoreapp3.0/Lab1-Calculator.pdb
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/obj/Debug/netcoreapp3.0/Lab1-Calculator.csprojAssemblyReference.cache
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/obj/Debug/netcoreapp3.0/Lab1-Calculator.AssemblyInfoInputs.cache
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/obj/Debug/netcoreapp3.0/Lab1-Calculator.AssemblyInfo.cs
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/obj/Debug/netcoreapp3.0/Lab1-Calculator.dll
+/Users/shahinfarzane/Projects/Lab1-Calculator/Lab1-Calculator/obj/Debug/netcoreapp3.0/Lab1-Calculator.pdb
